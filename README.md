@@ -139,7 +139,3 @@ README.md
 - Source chunk display
 
 ---
-
-## License
-
-MIT License
