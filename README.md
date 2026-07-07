@@ -63,53 +63,7 @@ Answer
 
 ---
 
-# Screenshots
-
-## Home Page
-
-![Home](assets/home.png)
-
----
-
-## Loading Transcript
-
-![Loading](assets/loading.png)
-
----
-
-## Video Loaded
-
-![Loaded](assets/loaded.png)
-
----
-
-## Asking Questions
-
-![Answer](assets/answer.png)
-
----
-
-## Hallucination Prevention
-
-The chatbot answers only from the transcript.
-
-If the answer isn't present in the video, it replies:
-
-> I don't know.
-
-![Unknown](assets/unknown.png)
-
----
-
 ## Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/krrisharma/YoutubeChatbot.git
-
-cd YoutubeChatbot
-```
 
 Create virtual environment
 
